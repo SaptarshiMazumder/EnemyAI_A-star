@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 360dd99d8e4545444b064efed3291402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1900092816737533689
+    second: Yokai 1 Attack 2_1_0
+  - first:
+      213: -52777187318358773
+    second: Yokai 1 Attack 2_1_1
+  - first:
+      213: 6123565634667733670
+    second: Yokai 1 Attack 2_1_2
+  - first:
+      213: -1645206023117311546
+    second: Yokai 1 Attack 2_1_3
+  - first:
+      213: 4633517845272054205
+    second: Yokai 1 Attack 2_1_4
+  - first:
+      213: -817103527486806678
+    second: Yokai 1 Attack 2_1_5
+  - first:
+      213: -7616157555714447245
+    second: Yokai 1 Attack 2_1_6
+  - first:
+      213: -7994439222038980093
+    second: Yokai 1 Attack 2_1_7
+  - first:
+      213: 5633043862683926815
+    second: Yokai 1 Attack 2_1_8
+  - first:
+      213: 3462592175128272322
+    second: Yokai 1 Attack 2_1_9
+  - first:
+      213: 3779372825960504854
+    second: Yokai 1 Attack 2_1_10
+  - first:
+      213: 7498507027172837289
+    second: Yokai 1 Attack 2_1_11
+  - first:
+      213: -4324395620337615182
+    second: Yokai 1 Attack 2_1_12
+  - first:
+      213: 4488612921990016538
+    second: Yokai 1 Attack 2_1_13
+  - first:
+      213: 4105737952365718955
+    second: Yokai 1 Attack 2_1_14
+  - first:
+      213: -5200580009327660313
+    second: Yokai 1 Attack 2_1_15
+  - first:
+      213: -3581687937319020851
+    second: Yokai 1 Attack 2_1_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_0
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3141
+        width: 416
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe79e5895c7e5a10800000000000000
+      internalID: 1900092816737533689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_1
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 3141
+        width: 400
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d15a18d6f744ff0800000000000000
+      internalID: -52777187318358773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_2
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 3149
+        width: 462
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2e82d20864bf450800000000000000
+      internalID: 6123565634667733670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_3
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 3203
+        width: 686
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c172c1b6dd0b29e0800000000000000
+      internalID: -1645206023117311546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_4
+      rect:
+        serializedVersion: 2
+        x: 5821
+        y: 3208
+        width: 686
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9cfdb4eef8d4040800000000000000
+      internalID: 4633517845272054205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_5
+      rect:
+        serializedVersion: 2
+        x: 7277
+        y: 3208
+        width: 606
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652e63cba019a4f0800000000000000
+      internalID: -817103527486806678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1987
+        width: 630
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ab322e09fd4690800000000000000
+      internalID: -7616157555714447245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_7
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1979
+        width: 774
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9ae742eb0e0190800000000000000
+      internalID: -7994439222038980093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_8
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1881
+        width: 888
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1148774c879c2e40800000000000000
+      internalID: 5633043862683926815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_9
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1879
+        width: 552
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd5198dc399d0030800000000000000
+      internalID: 3462592175128272322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_10
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 1883
+        width: 554
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ed32daf87037430800000000000000
+      internalID: 3779372825960504854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_11
+      rect:
+        serializedVersion: 2
+        x: 7051
+        y: 1881
+        width: 396
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74864996c001860800000000000000
+      internalID: 7498507027172837289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 671
+        width: 443
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be758d4819acf3c0800000000000000
+      internalID: -4324395620337615182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_13
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 695
+        width: 474
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e617dbba1ca4e30800000000000000
+      internalID: 4488612921990016538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_14
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 695
+        width: 432
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad299f1ae28af830800000000000000
+      internalID: 4105737952365718955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_15
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 693
+        width: 408
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f60e0904d3d7b0800000000000000
+      internalID: -5200580009327660313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Attack 2_1_16
+      rect:
+        serializedVersion: 2
+        x: 5843
+        y: 693
+        width: 416
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65ccf2cc94b4ec0800000000000000
+      internalID: -3581687937319020851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

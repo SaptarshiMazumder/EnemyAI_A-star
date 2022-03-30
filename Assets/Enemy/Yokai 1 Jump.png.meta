@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 8d430b908719bad4c80be17748b08f0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8594979952100672609
+    second: Yokai 1 Jump_0
+  - first:
+      213: -8179951871623547606
+    second: Yokai 1 Jump_1
+  - first:
+      213: -5164735689397915600
+    second: Yokai 1 Jump_2
+  - first:
+      213: -5595169927727475219
+    second: Yokai 1 Jump_3
+  - first:
+      213: 5793908954873941525
+    second: Yokai 1 Jump_4
+  - first:
+      213: -8399160986445313252
+    second: Yokai 1 Jump_5
+  - first:
+      213: 8984442706945258820
+    second: Yokai 1 Jump_6
+  - first:
+      213: 6680250063005786998
+    second: Yokai 1 Jump_7
+  - first:
+      213: -2782894247611919051
+    second: Yokai 1 Jump_8
+  - first:
+      213: -4041734658486710849
+    second: Yokai 1 Jump_9
+  - first:
+      213: 852405913990002649
+    second: Yokai 1 Jump_10
+  - first:
+      213: -3617817812741564684
+    second: Yokai 1 Jump_11
+  - first:
+      213: -4925587366784781319
+    second: Yokai 1 Jump_12
+  - first:
+      213: 3640226491955489973
+    second: Yokai 1 Jump_13
+  - first:
+      213: -5569649038018732913
+    second: Yokai 1 Jump_14
+  - first:
+      213: 8931321054265670273
+    second: Yokai 1 Jump_15
+  - first:
+      213: -6050044887627592374
+    second: Yokai 1 Jump_16
+  - first:
+      213: -6223352953850411726
+    second: Yokai 1 Jump_17
+  - first:
+      213: -9212414863839821951
+    second: Yokai 1 Jump_18
+  - first:
+      213: 376037220463384441
+    second: Yokai 1 Jump_19
+  - first:
+      213: -3928935335959763106
+    second: Yokai 1 Jump_20
+  - first:
+      213: 7540624736754884508
+    second: Yokai 1 Jump_21
+  - first:
+      213: 5586116839022939077
+    second: Yokai 1 Jump_22
+  - first:
+      213: 7587268747132542771
+    second: Yokai 1 Jump_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yokai 1 Jump_0
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 7229
+        width: 450
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7f6f854f78b880800000000000000
+      internalID: -8594979952100672609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 7229
+        width: 450
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25361cac19fa7e80800000000000000
+      internalID: -8179951871623547606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_2
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 7229
+        width: 448
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b7a2214c2358b0800000000000000
+      internalID: -5164735689397915600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_3
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 7229
+        width: 466
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51bdf5896f952b0800000000000000
+      internalID: -5595169927727475219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_4
+      rect:
+        serializedVersion: 2
+        x: 5781
+        y: 7229
+        width: 492
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e473c3f79186050800000000000000
+      internalID: 5793908954873941525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_5
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 7229
+        width: 508
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8b9f559f207b80800000000000000
+      internalID: -8399160986445313252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 6005
+        width: 576
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44532545a072fac70800000000000000
+      internalID: 8984442706945258820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 6005
+        width: 600
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673ad30f90405bc50800000000000000
+      internalID: 6680250063005786998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_8
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 6005
+        width: 608
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5351d9b1d6c2169d0800000000000000
+      internalID: -2782894247611919051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_9
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 6009
+        width: 612
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc38cfdbfd8e7c0800000000000000
+      internalID: -4041734658486710849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_10
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 6045
+        width: 715
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7f0db99aa54db00800000000000000
+      internalID: 852405913990002649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_11
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 6229
+        width: 698
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f655790eddeacdc0800000000000000
+      internalID: -3617817812741564684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5053
+        width: 698
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f334a4036cc4abb0800000000000000
+      internalID: -4925587366784781319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_13
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 5015
+        width: 643
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc29fa25bea48230800000000000000
+      internalID: 3640226491955489973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_14
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 4787
+        width: 836
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c1c4d85b1a4b2b0800000000000000
+      internalID: -5569649038018732913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_15
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 4703
+        width: 536
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af87ebd2d62fb70800000000000000
+      internalID: 8931321054265670273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_16
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 4783
+        width: 574
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0acdaa3ce90ca0800000000000000
+      internalID: -6050044887627592374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_17
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 4783
+        width: 542
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2354ed1167532a9a0800000000000000
+      internalID: -6223352953850411726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 3559
+        width: 482
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f7c45ad7de62080800000000000000
+      internalID: -9212414863839821951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_19
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 3559
+        width: 470
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779b041cd3f73500800000000000000
+      internalID: 376037220463384441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_20
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 3559
+        width: 452
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5763aad02e9979c0800000000000000
+      internalID: -3928935335959763106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_21
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 3559
+        width: 436
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5cc20f3ea5a860800000000000000
+      internalID: 7540624736754884508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_22
+      rect:
+        serializedVersion: 2
+        x: 5837
+        y: 3559
+        width: 442
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4ac72bafd58d40800000000000000
+      internalID: 5586116839022939077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yokai 1 Jump_23
+      rect:
+        serializedVersion: 2
+        x: 7159
+        y: 3559
+        width: 446
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f1248f9b46b4960800000000000000
+      internalID: 7587268747132542771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

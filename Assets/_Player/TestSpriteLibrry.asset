@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: TestSpriteLibrry
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: Head 1
+      m_Hash: 184878749
+      m_Sprite: {fileID: -691128759099656976, guid: a473bf3445630bc4a906ba9fcaa5535f, type: 3}
+    - m_Name: Head 2
+      m_Hash: -1844685017
+      m_Sprite: {fileID: 673719861402023132, guid: 7eae7f042308338479141c326097b1d0, type: 3}
